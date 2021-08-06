@@ -3,7 +3,7 @@
 ![C](https://img.shields.io/badge/language-C-yellow)
 ## What project do?
 ___
-This project uses fork function to divide itself to parent-child mode and finally create  child zombie process. Program displays ancestors PID and descendatns PID.
+This project uses fork function to divide itself to parent-child mode and finally create child orphan process. Program displays ancestors PID and descendatns PID.
 
 ![terminal](execute.png)
 
